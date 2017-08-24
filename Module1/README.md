@@ -1,6 +1,9 @@
 Module 1: Introduction
 
-Theoretical exercise:
-ggplot:
+Theoretical exercise: univariate exponential family - binomial, Poisson, normal and gamma
 
-[[mettelang.github.io/TMA4315H2017/Module1/munich.html]]
+
+ggplot: smart solutions with the Munich rent data
+
+mettelang.github.io/TMA4315H2017/Module1/munich.html
+
