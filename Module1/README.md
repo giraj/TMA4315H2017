@@ -5,5 +5,5 @@ Theoretical exercise: univariate exponential family - binomial, Poisson, normal 
 
 ggplot: smart solutions with the Munich rent data
 
-<mettelang.github.io/TMA4315H2017/Module1/munich.html>
+<http://mettelang.github.io/TMA4315H2017/Module1/munich.html>
 
