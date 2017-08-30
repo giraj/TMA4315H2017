@@ -14,3 +14,4 @@ ggplot: smart solutions with the Munich rent data
 <http://mettelang.github.io/TMA4315H2017/Module1/munich.Rmd>
 
 
+test
